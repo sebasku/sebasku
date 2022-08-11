@@ -2,7 +2,7 @@ I’m currently learning/using stuff like:
 - AWS(E.g. S3, EC2, EKS...), Docker, Kubernetes, Jenkins, Ansible
 - Java(Maven, JUnit)
 - SQL, MySQL
-- Linux basic administration(E.g. Apache2, FTP...), Networking(E.g. Protocols, ports, configuring servers...)
+- Linux basic administration(E.g. Apache2, FTP...), Networking(E.g. Protocols, ports, configuring servers/services...)
 - Git
 
 In past I learned/used stuff like:
