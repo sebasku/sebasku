@@ -1,16 +1,12 @@
-### Hi there 👋
+I’m currently learning/using stuff like:
+AWS(E.g. S3, EC2, EKS...), Docker, Kubernetes
+Java(Maven, JUnit)
+SQL, MySQL
+Linux basic administration(E.g. Apache2, FTP...), Networking(E.g. Protocols, ports, configuring servers...)
+Git
 
-<!--
-**sebasku/sebasku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In past I used/learned stuff like:
+PHP, HTML5, CSS, XML
+MS SQL
+Windows Server 2008/2012 basic administration
+Virtualization(VirtualBox, VMware)
