@@ -1,5 +1,5 @@
 I’m currently learning/using stuff like:
-- AWS(E.g. S3, EC2, EKS...), Docker, Kubernetes, Jenkins, Ansible
+- AWS(E.g. S3, EC2, EKS...), Docker,
 - Java(Maven, JUnit)
 - SQL, MySQL
 - Linux basic administration(E.g. Apache2, FTP...), Networking(E.g. Protocols, ports, configuring servers/services...)
